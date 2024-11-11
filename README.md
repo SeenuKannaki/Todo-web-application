@@ -27,5 +27,4 @@ A web-based ToDo application developed with Spring Boot. This application provid
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/todo-app-springboot.git
-   cd todo-app-springboot
+   git clone https://github.com/SeenuKannaki/Todo-web-application.git
